@@ -1,0 +1,177 @@
+[ {
+  "id" : 1,
+  "name" : "Nintendo DS",
+  "consoleType" : "HANDHELD",
+  "color" : "Lime",
+  "manufacturer" : "Nintendo",
+  "available" : true,
+  "screenSizeIn" : 3.2
+}, {
+  "id" : 2,
+  "name" : "Playstation Portable",
+  "consoleType" : "HANDHELD",
+  "color" : "Red",
+  "manufacturer" : "Sony",
+  "available" : true,
+  "screenSizeIn" : 4.3
+}, {
+  "id" : 3,
+  "name" : "Sega Megadrive",
+  "consoleType" : "STATIONARY",
+  "color" : "Black",
+  "manufacturer" : "Sega",
+  "available" : true,
+  "controllerPorts" : 2
+}, {
+  "id" : 4,
+  "name" : "Super Nintendo",
+  "consoleType" : "STATIONARY",
+  "color" : "Grey",
+  "manufacturer" : "Nintendo",
+  "available" : true,
+  "controllerPorts" : 2
+}, {
+  "id" : 5,
+  "name" : "Playstation 1",
+  "consoleType" : "STATIONARY",
+  "color" : "Grey",
+  "manufacturer" : "Sony",
+  "available" : false,
+  "controllerPorts" : 2
+}, {
+  "id" : 6,
+  "name" : "Xbox 360",
+  "consoleType" : "STATIONARY",
+  "color" : "White",
+  "manufacturer" : "Microsoft",
+  "available" : true,
+  "controllerPorts" : 4
+}, {
+  "id" : 7,
+  "name" : "Dreamcast",
+  "consoleType" : "STATIONARY",
+  "color" : "White",
+  "manufacturer" : "Sega",
+  "available" : true,
+  "controllerPorts" : 4
+}, {
+  "id" : 8,
+  "name" : "Playstation 2",
+  "consoleType" : "STATIONARY",
+  "color" : "White",
+  "manufacturer" : "Sony",
+  "available" : true,
+  "controllerPorts" : 2
+}, {
+  "id" : 9,
+  "name" : "Game Boy",
+  "consoleType" : "HANDHELD",
+  "color" : "Grey",
+  "manufacturer" : "Nintendo",
+  "available" : true,
+  "screenSizeIn" : 2.5
+}, {
+  "id" : 10,
+  "name" : "Game Boy Advance",
+  "consoleType" : "HANDHELD",
+  "color" : "Indigo",
+  "manufacturer" : "Nintendo",
+  "available" : true,
+  "screenSizeIn" : 2.9
+}, {
+  "id" : 11,
+  "name" : "Game Gear",
+  "consoleType" : "HANDHELD",
+  "color" : "Black",
+  "manufacturer" : "Sega",
+  "available" : true,
+  "screenSizeIn" : 3.2
+}, {
+  "id" : 12,
+  "name" : "Xbox",
+  "consoleType" : "STATIONARY",
+  "color" : "Black",
+  "manufacturer" : "Microsoft",
+  "available" : true,
+  "controllerPorts" : 4
+}, {
+  "id" : 13,
+  "name" : "Game Boy Color",
+  "consoleType" : "HANDHELD",
+  "color" : "Yellow",
+  "manufacturer" : "Nintendo",
+  "available" : true,
+  "screenSizeIn" : 2.3
+}, {
+  "id" : 14,
+  "name" : "Game Boy Color",
+  "consoleType" : "HANDHELD",
+  "color" : "Red",
+  "manufacturer" : "Nintendo",
+  "available" : true,
+  "screenSizeIn" : 2.3
+}, {
+  "id" : 15,
+  "name" : "Game Boy Color",
+  "consoleType" : "HANDHELD",
+  "color" : "Purple",
+  "manufacturer" : "Nintendo",
+  "available" : false,
+  "screenSizeIn" : 2.3
+}, {
+  "id" : 16,
+  "name" : "Game Boy Color",
+  "consoleType" : "HANDHELD",
+  "color" : "Green",
+  "manufacturer" : "Nintendo",
+  "available" : false,
+  "screenSizeIn" : 2.3
+}, {
+  "id" : 17,
+  "name" : "Xbox",
+  "consoleType" : "STATIONARY",
+  "color" : "White",
+  "manufacturer" : "Microsoft",
+  "available" : true,
+  "controllerPorts" : 4
+}, {
+  "id" : 18,
+  "name" : "Xbox",
+  "consoleType" : "STATIONARY",
+  "color" : "Red",
+  "manufacturer" : "Microsoft",
+  "available" : true,
+  "controllerPorts" : 4
+}, {
+  "id" : 19,
+  "name" : "Playstation 2",
+  "consoleType" : "STATIONARY",
+  "color" : "Red",
+  "manufacturer" : "Sony",
+  "available" : true,
+  "controllerPorts" : 2
+}, {
+  "id" : 20,
+  "name" : "Playstation 3",
+  "consoleType" : "STATIONARY",
+  "color" : "Black",
+  "manufacturer" : "Sony",
+  "available" : true,
+  "controllerPorts" : 2
+}, {
+  "id" : 21,
+  "name" : "Playstation 3 Slim",
+  "consoleType" : "STATIONARY",
+  "color" : "Black",
+  "manufacturer" : "Sony",
+  "available" : true,
+  "controllerPorts" : 2
+}, {
+  "id" : 22,
+  "name" : "Playstation 2 Slim",
+  "consoleType" : "STATIONARY",
+  "color" : "Black",
+  "manufacturer" : "Sony",
+  "available" : true,
+  "controllerPorts" : 2
+} ]

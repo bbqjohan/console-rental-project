@@ -1,0 +1,73 @@
+[ {
+  "id" : 2,
+  "memberId" : 0,
+  "itemId" : 7,
+  "memberStatus" : "CASUAL",
+  "active" : false,
+  "startDate" : [ 2025, 12, 17 ],
+  "stopDate" : [ 2025, 12, 18 ]
+}, {
+  "id" : 7,
+  "memberId" : 0,
+  "itemId" : 9,
+  "memberStatus" : "CASUAL",
+  "active" : false,
+  "startDate" : [ 2025, 12, 18 ],
+  "stopDate" : [ 2025, 12, 20 ]
+}, {
+  "id" : 8,
+  "memberId" : 0,
+  "itemId" : 10,
+  "memberStatus" : "CASUAL",
+  "active" : false,
+  "startDate" : [ 2025, 12, 18 ],
+  "stopDate" : [ 2025, 12, 20 ]
+}, {
+  "id" : 9,
+  "memberId" : 1,
+  "itemId" : 20,
+  "memberStatus" : "GAMER",
+  "active" : false,
+  "startDate" : [ 2025, 12, 18 ],
+  "stopDate" : [ 2025, 12, 25 ]
+}, {
+  "id" : 10,
+  "memberId" : 2,
+  "itemId" : 9,
+  "memberStatus" : "CASUAL",
+  "active" : false,
+  "startDate" : [ 2025, 12, 18 ],
+  "stopDate" : [ 2025, 12, 27 ]
+}, {
+  "id" : 11,
+  "memberId" : 3,
+  "itemId" : 15,
+  "memberStatus" : "GAMER",
+  "active" : true,
+  "startDate" : [ 2025, 12, 18 ],
+  "stopDate" : [ 2025, 12, 20 ]
+}, {
+  "id" : 12,
+  "memberId" : 9,
+  "itemId" : 16,
+  "memberStatus" : "CASUAL",
+  "active" : true,
+  "startDate" : [ 2025, 12, 18 ],
+  "stopDate" : [ 2025, 12, 30 ]
+}, {
+  "id" : 13,
+  "memberId" : 0,
+  "itemId" : 5,
+  "memberStatus" : "GAMER",
+  "active" : true,
+  "startDate" : [ 2025, 12, 18 ],
+  "stopDate" : [ 2025, 12, 31 ]
+}, {
+  "id" : 14,
+  "memberId" : 0,
+  "itemId" : 13,
+  "memberStatus" : "GAMER",
+  "active" : false,
+  "startDate" : [ 2025, 12, 18 ],
+  "stopDate" : [ 2026, 1, 10 ]
+} ]
