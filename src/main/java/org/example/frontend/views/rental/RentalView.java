@@ -15,15 +15,7 @@ public class RentalView {
     private final Pane root;
 
     public RentalView() {
-        List<Rental> rentals;
-
-        try {
-            rentals = RentalService.readAsList();
-        } catch (Exception e) {
-            rentals = new ArrayList<>();
-        }
-
-        this.rentalTable = new RentalTable(rentals);
+        this.rentalTable = new RentalTable(new ArrayList<>());
         this.root = createRoot();
     }
 
@@ -37,7 +29,21 @@ public class RentalView {
         return root;
     }
 
+    private List<Rental> loadRentals() {
+        List<Rental> items;
+
+        try {
+            items = RentalService.readAsList();
+        } catch (Exception e) {
+            items = new ArrayList<>();
+        }
+
+        return items;
+    }
+
     public Pane render() {
+        this.rentalTable.setItems(loadRentals());
+
         return root;
     }
 }

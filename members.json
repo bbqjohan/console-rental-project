@@ -312,7 +312,7 @@
   "age" : 26
 }, {
   "id" : 39,
-  "firstname" : "Åsa",
+  "firstname" : "Åsa-lina",
   "lastname" : "Fransson",
   "phone" : "0705122334",
   "email" : "asa.fransson@email.se",
@@ -399,155 +399,11 @@
   "status" : "CASUAL",
   "age" : 29
 }, {
-  "id" : 50,
-  "firstname" : "asd",
-  "lastname" : "fasdf",
-  "phone" : "123123123",
-  "email" : "asdf@gasdf.com",
-  "status" : "CASUAL",
-  "age" : 123
-}, {
-  "id" : 51,
-  "firstname" : "asd",
-  "lastname" : "fasdf",
-  "phone" : "123123123",
-  "email" : "asdf@gami.com",
-  "status" : "CASUAL",
-  "age" : 123
-}, {
-  "id" : 52,
-  "firstname" : "a",
-  "lastname" : "a",
-  "phone" : "111111111",
-  "email" : "a@a.com",
-  "status" : "CASUAL",
-  "age" : 111
-}, {
-  "id" : 53,
-  "firstname" : "b",
-  "lastname" : "b",
-  "phone" : "222222222",
-  "email" : "2@2.copm",
-  "status" : "CASUAL",
-  "age" : 222
-}, {
-  "id" : 54,
-  "firstname" : "c",
-  "lastname" : "c",
-  "phone" : "123123123",
-  "email" : "1@1.com",
-  "status" : "CASUAL",
-  "age" : 123
-}, {
-  "id" : 55,
-  "firstname" : "d",
-  "lastname" : "d",
-  "phone" : "123123123",
-  "email" : "a@a.com",
-  "status" : "CASUAL",
-  "age" : 123
-}, {
-  "id" : 56,
-  "firstname" : "d",
-  "lastname" : "d",
-  "phone" : "123123123",
-  "email" : "1@1.com",
-  "status" : "CASUAL",
-  "age" : 123
-}, {
-  "id" : 57,
-  "firstname" : "e",
-  "lastname" : "e",
-  "phone" : "123123123",
-  "email" : "1@1.cokm",
-  "status" : "CASUAL",
-  "age" : 123123123
-}, {
-  "id" : 58,
-  "firstname" : "f",
-  "lastname" : "f",
-  "phone" : "1234321123",
-  "email" : "asdf@asdf.com",
-  "status" : "CASUAL",
-  "age" : 123
-}, {
-  "id" : 59,
-  "firstname" : "g",
-  "lastname" : "g",
-  "phone" : "1231231231",
-  "email" : "a@a.com",
-  "status" : "CASUAL",
-  "age" : 123
-}, {
-  "id" : 61,
-  "firstname" : "asdf",
-  "lastname" : "asdf",
-  "phone" : "1231231231",
-  "email" : "fff@gmailc.om",
-  "status" : "CASUAL",
-  "age" : 123
-}, {
-  "id" : 63,
-  "firstname" : "vvvv",
-  "lastname" : "vvv",
-  "phone" : "1231231231",
-  "email" : "fff@gmailc.om",
-  "status" : "CASUAL",
-  "age" : 123
-}, {
-  "id" : 65,
-  "firstname" : "asdf",
-  "lastname" : "asdf",
-  "phone" : "1231231231",
-  "email" : "fff@gmailc.om",
-  "status" : "CASUAL",
-  "age" : 123
-}, {
-  "id" : 67,
-  "firstname" : "fff",
-  "lastname" : "fff",
-  "phone" : "1231231231",
-  "email" : "asdf@asdf.com",
-  "status" : "CASUAL",
-  "age" : 123
-}, {
-  "id" : 68,
-  "firstname" : "fffsa",
-  "lastname" : "sdfas",
-  "phone" : "123123123",
-  "email" : "sdf@asdf.com",
-  "status" : "CASUAL",
-  "age" : 123
-}, {
-  "id" : 69,
-  "firstname" : "hhh",
-  "lastname" : "hhh",
-  "phone" : "123123112",
-  "email" : "sdf@dd.com",
-  "status" : "CASUAL",
-  "age" : 123
-}, {
-  "id" : 70,
-  "firstname" : "asdf",
-  "lastname" : "asdf",
-  "phone" : "123123123",
-  "email" : "s@d.com",
-  "status" : "CASUAL",
-  "age" : 123
-}, {
-  "id" : 71,
-  "firstname" : "assd",
-  "lastname" : "asdfsa",
-  "phone" : "1231231231",
-  "email" : "ss@gmail.com",
-  "status" : "CASUAL",
-  "age" : 123
-}, {
-  "id" : 72,
-  "firstname" : "asdf",
-  "lastname" : "asdf",
-  "phone" : "123123111",
-  "email" : "asdf@asdf.com",
+  "id" : 73,
+  "firstname" : "Håkan",
+  "lastname" : "simon",
+  "phone" : "0701231231",
+  "email" : "f@f.com",
   "status" : "GAMER",
   "age" : 123
 } ]

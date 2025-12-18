@@ -34,6 +34,10 @@ public class RentalTable {
         this.root = createRoot();
     }
 
+    public void setItems(List<Rental> items) {
+        this.items.setAll(items);
+    }
+
     private List<Member> loadMembers() {
         try {
             return MemberService.readAsList();

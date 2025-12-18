@@ -116,7 +116,7 @@
   "consoleType" : "HANDHELD",
   "color" : "Purple",
   "manufacturer" : "Nintendo",
-  "available" : false,
+  "available" : true,
   "screenSizeIn" : 2.3
 }, {
   "id" : 16,

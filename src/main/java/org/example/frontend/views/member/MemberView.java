@@ -15,15 +15,7 @@ public class MemberView {
     private final MembersTable membersTable;
 
     public MemberView() {
-        List<Member> memberList;
-
-        try {
-            memberList = MemberService.readAsList();
-        } catch (Exception e) {
-            memberList = new ArrayList<>();
-        }
-
-        this.membersTable = new MembersTable(memberList);
+        this.membersTable = new MembersTable(new ArrayList<>());
         this.root = createRoot();
     }
 
@@ -37,7 +29,22 @@ public class MemberView {
         return root;
     }
 
+    private List<Member> loadMembers() {
+        List<Member> items;
+
+        try {
+            items = MemberService.readAsList();
+        } catch (Exception e) {
+            e.printStackTrace();
+            items = new ArrayList<>();
+        }
+
+        return items;
+    }
+
     public Pane render() {
+        this.membersTable.setItems(loadMembers());
+
         return root;
     }
 }

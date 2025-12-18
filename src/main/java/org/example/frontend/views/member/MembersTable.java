@@ -37,6 +37,10 @@ public class MembersTable {
         this.root = createRoot();
     }
 
+    public void setItems(List<Member> items) {
+        this.items.setAll(items);
+    }
+
     private void filterItems() {
         this.filteredItems.setAll(
                 this.items.stream()

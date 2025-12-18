@@ -15,7 +15,7 @@ public class InventoryView {
     private final Pane root;
 
     public InventoryView() {
-        this.inventoryTable = new InventoryTable(loadInventory());
+        this.inventoryTable = new InventoryTable(new ArrayList<>());
         this.root = createRoot();
     }
 
